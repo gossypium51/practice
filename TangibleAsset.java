@@ -1,7 +1,7 @@
 public abstract class TangibleAsset {
   private String name;
   private int price;
-  pravate String color;
+  private String color;
 
 public TangibleAsset(String name,int price,String color) {
   this.name = name;
